@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet">
+<path fill="#FFC246" d="M62 52c0 2.2-1.8 4-4 4H6c-2.2 0-4-1.8-4-4V16c0-2.2 1.8-4 4-4h52c2.2 0 4 1.8 4 4v36z"/>
+<path fill="#FFD664" d="M2 23.889L2 32c0 2.2 1.8 4 4 4h52c2.2 0 4-1.8 4-4v-8.111H2z"/>
+<path fill="#FFDF7F" d="M2 18.667L2 24c0 2.2 1.8 4 4 4h52c2.2 0 4-1.8 4-4v-5.333H2z"/>
+</svg>
